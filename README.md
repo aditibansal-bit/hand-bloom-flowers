@@ -2,7 +2,7 @@
 
 ![Hand Bloom Flowers](assets/full-bloom.png)
 
-An interactive web application that transforms hand gestures into a beautiful blooming flower experience.
+An interactive web application that uses real-time hand tracking to transform hand gestures into a magical blooming flower experience.
 
 Using real-time hand tracking powered by MediaPipe, users can grow elegant flower stems with one hand and bloom flowers with the other, creating a magical and immersive nature-inspired interaction.
 
@@ -72,26 +72,14 @@ Experience the interactive flower blooming animation powered by real-time hand t
 ```text
 Hand-Bloom-Flowers/
 │
-├── backup/
-├── flowers/
-├── flowers_original/
+├── assets
 ├── index.html
 ├── script.js
 ├── style.css
 └── README.md
 ```
 
----
 
-## 📸 Screenshots
-
-> Screenshots will be added soon.
-
----
-
-## 🎥 Demo
-
-> Demo video will be added soon.
 
 ---
 
@@ -102,6 +90,7 @@ Hand-Bloom-Flowers/
 - Different bloom styles
 - Sound effects
 - Mobile gesture support
+- Improved hand gesture recognition
 
 ---
 
