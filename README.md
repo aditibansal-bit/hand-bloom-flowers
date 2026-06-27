@@ -9,6 +9,10 @@ Using real-time hand tracking powered by MediaPipe, users can grow elegant flowe
 ---
 ## 🎥 Project Demo
 
+## 🌐 Live Demo
+
+👉 **Live Demo:** [Open Hand Bloom Flowers](https://hand-bloom-flowers.netlify.app)
+
 Experience the interactive flower blooming animation powered by real-time hand tracking.
 
 📹 **Demo Video:** [Watch the Demo](assets/demo.mp4)
